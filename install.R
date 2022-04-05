@@ -19,3 +19,9 @@ install.packages("lightgbm")
 install.packages('recipes')
 install.packages("xgboost")
 install.packages("bench")
+install.packages("rpart.plot")
+install.packages("gbm")
+install.packages("viridis")
+
+
+
